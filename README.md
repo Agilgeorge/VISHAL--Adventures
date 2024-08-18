@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a  tribute to vishal naa which i built using flutter and dartr
+This project is a  tribute to vishal naa which i built using flutter and dart.
 
 A few resources to get you started if this is your first Flutter project:
 
